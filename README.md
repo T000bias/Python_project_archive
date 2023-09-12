@@ -1,2 +1,5 @@
 # Python_project_archive
-Coming soon
+
+| Project Name | Description | Stack | Link |
+| ------------ | ----------- | ----- | ---- |
+| Python project 1* | Flask Application | HTML/CSS/Python | ()[] |

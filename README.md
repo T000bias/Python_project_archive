@@ -13,3 +13,4 @@
 | Python project 8* | Flask Application | Python/Flask | Incomplete | [link]()
 | Python project 9* | Flask MVC Application | Python/Flask | Incomplete | [link]()
 | Python project 10* | Full-Stack Flask Application | Python/Flask | Incomplete | [link]()
+| Python project 11* | SQLite Database Application | Python/Flask | Incomplete | [link]()

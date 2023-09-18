@@ -1,7 +1,14 @@
 # Python_project_archive
 
-| Project Name | Description | Stack | Link |
-| ------------ | ----------- | ----- | ---- |
+## README Navigation
+- [Flask Projects](#flask-projects)
+- [Django Projects](#django-projects)
+- [Data Visualization Projects](#data-visualization-projects)
+
+
+## Flask Projects
+| Project Name | Description | Stack | Status | Link |
+| ------------ | ----------- | ----- | ------ | ---- |
 | Python project 1* | Flask Application | HTML/CSS/Python | Incomplete | [link](https://github.com/T000bias/Python_project_archive/tree/main/flask%20app%201) |
 | Python project 2* | Flask MVC Application | HTML/CSS/JS/Python | Incomplete | [link]()
 | Python project 3* | Flask Application | HTML/CSS/Bootstrap/JS/Python | Incomplete | [link]()
@@ -14,3 +21,16 @@
 | Python project 9* | Flask MVC Application | Python/Flask | Incomplete | [link]()
 | Python project 10* | Full-Stack Flask Application | Python/Flask | Incomplete | [link]()
 | Python project 11* | SQLite Database Application | Python/Flask | Incomplete | [link]()
+| Python project 12* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 13* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 14* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 15* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 16* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 17* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 18* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 19* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+| Python project 20* | Flask MVC Application | Python/Flask | Incomplete | [link]()
+
+## Django Projects
+
+## Data Visualization Projects

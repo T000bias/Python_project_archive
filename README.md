@@ -33,4 +33,10 @@
 
 ## Django Projects
 
+| Project Name | Description | Stack | Status | Link |
+| ------------ | ----------- | ----- | ------ | ---- |
+
 ## Data Visualization Projects
+
+| Project Name | Description | Stack | Status | Link |
+| ------------ | ----------- | ----- | ------ | ---- |
